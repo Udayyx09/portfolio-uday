@@ -1,5 +1,7 @@
 # Uday Kushwaha - Portfolio
 
+LIVE LINK https://udayyx09.github.io/portfolio-uday/?utm_source=chatgpt.com
+
 Personal portfolio website for **Uday Kushwaha**, a Java Full Stack Developer. The site presents his profile, technical skills, experience, projects, resume, and contact links in a responsive neo-brutalist interface.
 
 ![Portfolio banner](Assets/images/protfoli%20banner.png)
